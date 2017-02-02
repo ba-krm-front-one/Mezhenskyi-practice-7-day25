@@ -51,7 +51,7 @@ body {
     line-height: 34px;
     margin-left: 0;
 }
-span:before {
+.blockquote span:before {
     font-family: 'Lato', sans-serif;
     content: "\201C";
     font-size: 60px;
@@ -68,7 +68,6 @@ span:before {
 }
 .ba-discover {
     display: inline-block;
-    margin-bottom: 50px;
     font-family: 'Lato', sans-serif;
     width: 114px;
     height: 14px;
